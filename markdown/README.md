@@ -38,7 +38,8 @@ The study of **computing and information systems** is central to our understandi
 
 ### Inline 
 
-    In HTML the `img` tag is used to display pictures
+In HTML the `<img>` tag is used to display pictures.
+
 
 ## Code Fences
 
